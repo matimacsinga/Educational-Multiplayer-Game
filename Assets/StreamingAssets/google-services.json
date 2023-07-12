@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "20812282674",
+    "firebase_url": "https://educational-multiplayer-game-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "educational-multiplayer-game",
+    "storage_bucket": "educational-multiplayer-game.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:20812282674:android:40fe06d6b5fbac6a75352b",
+        "android_client_info": {
+          "package_name": "com.DefaultCompany.ThesisProject"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "20812282674-e15uosghgjstgml7g6r8avf7s1o0eu87.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBw81bxhYUU6jZOGx5wgbEYq0C3AfgYb1Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "20812282674-e15uosghgjstgml7g6r8avf7s1o0eu87.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
